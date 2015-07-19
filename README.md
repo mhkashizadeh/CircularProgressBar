@@ -11,7 +11,7 @@ CircularProgressBar for android
 ### Usage
 ``` java
    CircularProgressBar progressBar = (CircularProgressBar) findViewById(R.id.progressBar);
-   progressBar.setColor(Colro.RED);
+   progressBar.setColor(Color.RED);
    progressBar.setState(CircularProgressBar.LOADING);
    
    DownloaderListener listener = new DownloaderListener(){

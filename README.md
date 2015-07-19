@@ -21,6 +21,11 @@ CircularProgressBar for android
             }
    };
 ```
+----
+
+### ScreenShot 
+
+![CircularProgressBar](https://github.com/mhkashizadeh/CircularProgressBar/CircularProgressBar.gif)
 
 ----
 

@@ -31,3 +31,4 @@ CircularProgressBar for android
 
 ### Developer
 #### [Mohammad Hossein Kashizadeh](mailto:mh.kashizadeh@gmail.com)
+:smile:

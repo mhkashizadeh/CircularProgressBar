@@ -34,7 +34,7 @@ CircularProgressBar for android
 
 ### License
 ----
-Copyright [2015] [MH.Kashizadeh]
+Copyright 2015 MH.Kashizadeh
 
 ```
 Licensed under the Apache License, Version 2.0 (the "License");
